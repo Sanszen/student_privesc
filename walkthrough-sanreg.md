@@ -136,9 +136,9 @@ git push origin main
 
 ## 👤 Student Info
 
-- Name:
-- Date:
-- Kali IP:
+- Name: Sandra Regts
+- Date: 09/09/25
+- Kali IP: 
 - Metasploitable IP:
 
 ---
